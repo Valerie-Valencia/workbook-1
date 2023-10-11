@@ -43,9 +43,10 @@ public class Main {
 
         }
         else{
-            System.out.println("Input invalid.");
-        }
 
+            System.out.println("Input invalid.");
+
+        }
     }
 
     public static int addIntegers(int a, int b){
